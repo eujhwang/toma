@@ -6,7 +6,6 @@ Code for Sotopia SFT training and Sotopia evaluation.
 
 ```bash
 pip install -r requirements.txt
-pip install -e .
 ```
 
 Set up the original Sotopia and Sotopia-Pi data following their official
