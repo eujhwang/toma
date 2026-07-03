@@ -123,19 +123,12 @@ To evaluate a fine-tuned checkpoint, add:
 
 ## Paper
 
-If the code is helpful for your project, please cite [our paper](https://arxiv.org/abs/2502.18331) (Bibtex below).
+If the code is helpful for your project, please cite [our paper](https://aclanthology.org/2026.findings-acl.551/) (Bibtex below).
 ```
 @inproceedings{hwang-etal-2026-infusing,
     title = "Infusing Theory of Mind into Socially Intelligent {LLM} Agents",
-    author = "Hwang, EunJeong  and
-      Yin, Yuwei  and
-      Carenini, Giuseppe  and
-      West, Peter  and
-      Shwartz, Vered",
-    editor = "Liakata, Maria  and
-      Moreira, Viviane P.  and
-      Zhang, Jiajun  and
-      Jurgens, David",
+    author = "Hwang, EunJeong  and Yin, Yuwei  and Carenini, Giuseppe  and West, Peter  and Shwartz, Vered",
+    editor = "Liakata, Maria  and Moreira, Viviane P.  and Zhang, Jiajun  and Jurgens, David",
     booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
     month = jul,
     year = "2026",
